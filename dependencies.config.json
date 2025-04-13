@@ -1,0 +1,1 @@
+{"description": "This file serves as a centralized configuration for managing external dependencies (packages and CDNs) used in the project.", "packages": [{"name": "leaflet", "description": "A library for interactive maps, used to display OpenStreetMap data."}, {"name": "chart.js", "description": "A library for creating various types of charts and graphs."}], "cdns": []}
